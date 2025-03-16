@@ -52,3 +52,7 @@ profiles/contrib
 
 # Ignore libraries
 libraries
+
+# Ignore recipes
+recipes/drupal_cms_*
+recipes/easy_email_*
