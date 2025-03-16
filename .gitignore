@@ -49,3 +49,6 @@ themes/contrib
 
 # Ignore contrib profiles
 profiles/contrib
+
+# Ignore libraries
+libraries
