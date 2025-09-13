@@ -1796,6 +1796,10 @@
             ],
             "authors": [
                 {
+                    "name": "akhil babu",
+                    "homepage": "https://www.drupal.org/user/3632866"
+                },
+                {
                     "name": "andrewbelcher",
                     "homepage": "https://www.drupal.org/user/655282"
                 },
@@ -3988,16 +3992,16 @@
         },
         {
             "name": "drupal/drupal_cms_seo_tools",
-            "version": "1.2.3",
+            "version": "1.2.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_seo_tools.git",
-                "reference": "e4ec846546508811aee256db264f2aaf1e2626ed"
+                "reference": "4692e8e0e00a3bd50129358b540e568810f177d5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_seo_tools/repository/archive.zip?sha=e4ec846546508811aee256db264f2aaf1e2626ed",
-                "reference": "e4ec846546508811aee256db264f2aaf1e2626ed",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_seo_tools/repository/archive.zip?sha=4692e8e0e00a3bd50129358b540e568810f177d5",
+                "reference": "4692e8e0e00a3bd50129358b540e568810f177d5",
                 "shasum": ""
             },
             "require": {
@@ -4025,9 +4029,9 @@
             ],
             "description": "Adds common search engine optimisation tools such as meta tags, XML sitemap, robots.txt management and more.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_seo_tools/-/tree/1.2.3"
+                "source": "https://git.drupalcode.org/project/drupal_cms_seo_tools/-/tree/1.2.5"
             },
-            "time": "2025-07-09T13:09:00+00:00"
+            "time": "2025-09-09T08:41:31+00:00"
         },
         {
             "name": "drupal/drupal_cms_starter",
@@ -4178,17 +4182,17 @@
         },
         {
             "name": "drupal/easy_email",
-            "version": "3.0.5",
+            "version": "3.0.6",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/easy_email.git",
-                "reference": "3.0.5"
+                "reference": "3.0.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/easy_email-3.0.5.zip",
-                "reference": "3.0.5",
-                "shasum": "4f079e156933e5bcbb7d2fc59dd747c3fbe3c2e4"
+                "url": "https://ftp.drupal.org/files/projects/easy_email-3.0.6.zip",
+                "reference": "3.0.6",
+                "shasum": "ff6ecbe214d727487e9f604b834f98d131287599"
             },
             "require": {
                 "drupal/core": "^10.1 || ^11",
@@ -4205,8 +4209,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "3.0.5",
-                    "datestamp": "1750096730",
+                    "version": "3.0.6",
+                    "datestamp": "1757509792",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4346,17 +4350,17 @@
         },
         {
             "name": "drupal/easy_email_theme",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/easy_email_theme.git",
-                "reference": "1.0.0"
+                "reference": "1.1.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/easy_email_theme-1.0.0.zip",
-                "reference": "1.0.0",
-                "shasum": "daaca22af0a2ba337c847be3ad6d6f18eb21f3fa"
+                "url": "https://ftp.drupal.org/files/projects/easy_email_theme-1.1.0.zip",
+                "reference": "1.1.0",
+                "shasum": "14270a75753e3c228a2a281b266b7e62c270b4f0"
             },
             "require": {
                 "drupal/core": "^10.2 || ^11"
@@ -4364,8 +4368,8 @@
             "type": "drupal-theme",
             "extra": {
                 "drupal": {
-                    "version": "1.0.0",
-                    "datestamp": "1729101397",
+                    "version": "1.1.0",
+                    "datestamp": "1757509759",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4572,7 +4576,7 @@
         },
         {
             "name": "drupal/eca_ui",
-            "version": "3.0.2",
+            "version": "3.0.3",
             "require": {
                 "drupal/core": "^11.2",
                 "drupal/eca": "*",
@@ -4581,8 +4585,8 @@
             "type": "metapackage",
             "extra": {
                 "drupal": {
-                    "version": "3.0.2",
-                    "datestamp": "1755341165",
+                    "version": "3.0.3",
+                    "datestamp": "1757505170",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -5045,17 +5049,17 @@
         },
         {
             "name": "drupal/geofield",
-            "version": "1.65.0",
+            "version": "1.66.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/geofield.git",
-                "reference": "8.x-1.65"
+                "reference": "8.x-1.66"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/geofield-8.x-1.65.zip",
-                "reference": "8.x-1.65",
-                "shasum": "931c4864847e5612c50583580505ba5c0f89d395"
+                "url": "https://ftp.drupal.org/files/projects/geofield-8.x-1.66.zip",
+                "reference": "8.x-1.66",
+                "shasum": "c217b8f506dcc6c4c581d2dd0dc6c02f9ce8bd14"
             },
             "require": {
                 "drupal/core": "^9 || ^10 || ^11",
@@ -5068,8 +5072,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-1.65",
-                    "datestamp": "1754552601",
+                    "version": "8.x-1.66",
+                    "datestamp": "1757514238",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -5781,17 +5785,17 @@
         },
         {
             "name": "drupal/linkit",
-            "version": "7.0.8",
+            "version": "7.0.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/linkit.git",
-                "reference": "7.0.8"
+                "reference": "7.0.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/linkit-7.0.8.zip",
-                "reference": "7.0.8",
-                "shasum": "3a16053650934b3942cf369ac1ee3ad85c655d45"
+                "url": "https://ftp.drupal.org/files/projects/linkit-7.0.9.zip",
+                "reference": "7.0.9",
+                "shasum": "fa75d31583a5866c8dd1f0455b7b5d19642c6f34"
             },
             "require": {
                 "drupal/core": "^10.1 || ^11"
@@ -5803,8 +5807,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "7.0.8",
-                    "datestamp": "1754406731",
+                    "version": "7.0.9",
+                    "datestamp": "1757621287",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -6068,7 +6072,7 @@
                 "drupal/hal": "^1 || ^2 || ^9",
                 "drupal/metatag_dc": "*",
                 "drupal/metatag_open_graph": "*",
-                "drupal/page_manager": "^4.0",
+                "drupal/page_manager": "*",
                 "drupal/redirect": "^1.0",
                 "ergebnis/composer-normalize": "*",
                 "mpyw/phpunit-patch-serializable-comparison": "*"
@@ -8310,16 +8314,16 @@
         },
         {
             "name": "google/cloud-ai-platform",
-            "version": "v1.36.0",
+            "version": "v1.37.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-cloud-php-ai-platform.git",
-                "reference": "8c24a8615eec5e8858872107660ec5495015d11f"
+                "reference": "b776f4842f1ddd07fc25a79bef7ad1af32fa481f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-cloud-php-ai-platform/zipball/8c24a8615eec5e8858872107660ec5495015d11f",
-                "reference": "8c24a8615eec5e8858872107660ec5495015d11f",
+                "url": "https://api.github.com/repos/googleapis/google-cloud-php-ai-platform/zipball/b776f4842f1ddd07fc25a79bef7ad1af32fa481f",
+                "reference": "b776f4842f1ddd07fc25a79bef7ad1af32fa481f",
                 "shasum": ""
             },
             "require": {
@@ -8354,9 +8358,9 @@
             ],
             "description": "Google Cloud Ai Platform Client for PHP",
             "support": {
-                "source": "https://github.com/googleapis/google-cloud-php-ai-platform/tree/v1.36.0"
+                "source": "https://github.com/googleapis/google-cloud-php-ai-platform/tree/v1.37.0"
             },
-            "time": "2025-09-05T22:58:48+00:00"
+            "time": "2025-09-12T23:15:59+00:00"
         },
         {
             "name": "google/common-protos",
@@ -8419,16 +8423,16 @@
         },
         {
             "name": "google/gax",
-            "version": "v1.36.1",
+            "version": "v1.37.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/gax-php.git",
-                "reference": "afdac3bc38a3b17d70668115d7b1a97289ac4d72"
+                "reference": "05719d8a6a5a7233fc9aa41d9d6e5a873930c8ae"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/gax-php/zipball/afdac3bc38a3b17d70668115d7b1a97289ac4d72",
-                "reference": "afdac3bc38a3b17d70668115d7b1a97289ac4d72",
+                "url": "https://api.github.com/repos/googleapis/gax-php/zipball/05719d8a6a5a7233fc9aa41d9d6e5a873930c8ae",
+                "reference": "05719d8a6a5a7233fc9aa41d9d6e5a873930c8ae",
                 "shasum": ""
             },
             "require": {
@@ -8436,15 +8440,15 @@
                 "google/common-protos": "^4.4",
                 "google/grpc-gcp": "^0.4",
                 "google/longrunning": "~0.4",
-                "google/protobuf": "^v3.25.3||^4.26.1",
+                "google/protobuf": "^4.26.1",
                 "grpc/grpc": "^1.13",
                 "guzzlehttp/promises": "^2.0",
                 "guzzlehttp/psr7": "^2.0",
-                "php": "^8.0",
+                "php": "^8.1",
                 "ramsey/uuid": "^4.0"
             },
             "conflict": {
-                "ext-protobuf": "<3.7.0"
+                "ext-protobuf": "<4.7.0"
             },
             "require-dev": {
                 "phpspec/prophecy-phpunit": "^2.1",
@@ -8470,9 +8474,9 @@
             ],
             "support": {
                 "issues": "https://github.com/googleapis/gax-php/issues",
-                "source": "https://github.com/googleapis/gax-php/tree/v1.36.1"
+                "source": "https://github.com/googleapis/gax-php/tree/v1.37.0"
             },
-            "time": "2025-05-20T19:50:43+00:00"
+            "time": "2025-09-13T16:22:17+00:00"
         },
         {
             "name": "google/grpc-gcp",
