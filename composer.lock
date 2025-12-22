@@ -2814,16 +2814,16 @@
         },
         {
             "name": "drupal/core-composer-scaffold",
-            "version": "11.2.10",
+            "version": "11.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-composer-scaffold.git",
-                "reference": "891b4615c479e17245c81571c9be0156be4b03f8"
+                "reference": "b8ea85a2072b52f88a1fadec28306a3946980b8e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core-composer-scaffold/zipball/891b4615c479e17245c81571c9be0156be4b03f8",
-                "reference": "891b4615c479e17245c81571c9be0156be4b03f8",
+                "url": "https://api.github.com/repos/drupal/core-composer-scaffold/zipball/b8ea85a2072b52f88a1fadec28306a3946980b8e",
+                "reference": "b8ea85a2072b52f88a1fadec28306a3946980b8e",
                 "shasum": ""
             },
             "require": {
@@ -2858,9 +2858,9 @@
                 "drupal"
             ],
             "support": {
-                "source": "https://github.com/drupal/core-composer-scaffold/tree/11.2.10"
+                "source": "https://github.com/drupal/core-composer-scaffold/tree/11.3.1"
             },
-            "time": "2025-05-05T16:18:58+00:00"
+            "time": "2025-10-13T16:03:31+00:00"
         },
         {
             "name": "drupal/core-project-message",
@@ -6292,17 +6292,17 @@
         },
         {
             "name": "drupal/project_browser",
-            "version": "2.1.2",
+            "version": "2.1.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/project_browser.git",
-                "reference": "2.1.2"
+                "reference": "2.1.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/project_browser-2.1.2.zip",
-                "reference": "2.1.2",
-                "shasum": "5033af2c19e3552e4a3a2a236b48a2c869e2afe3"
+                "url": "https://ftp.drupal.org/files/projects/project_browser-2.1.3.zip",
+                "reference": "2.1.3",
+                "shasum": "8204cef83d6b16ef1ee378cac5bd7f5160934ab0"
             },
             "require": {
                 "composer-runtime-api": "^2",
@@ -6325,8 +6325,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.1.2",
-                    "datestamp": "1761762127",
+                    "version": "2.1.3",
+                    "datestamp": "1766014895",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -14842,7 +14842,6 @@
     "minimum-stability": "stable",
     "stability-flags": {
         "drupal/gemini_provider": 10,
-        "drupal/project_browser": 15,
         "drupal/webform": 10
     },
     "prefer-stable": true,
