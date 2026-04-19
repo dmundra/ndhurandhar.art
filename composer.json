@@ -36,6 +36,7 @@
         "drupal/drupal_cms_starter": "~1.0.2",
         "drupal/gemini_provider": "^1.0@beta",
         "drupal/project_browser": "@alpha",
+        "drupal/real_aes": "^2.6",
         "drupal/tfa": "^1.12",
         "drupal/webform": "@beta",
         "drush/drush": "^13"
