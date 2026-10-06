@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "955ba0d471dfd5d69f8164c8877e9e30",
+    "content-hash": "4bd57e5173be023518781128f3521312",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -3783,21 +3783,19 @@
         },
         {
             "name": "drupal/drupal_cms_accessibility_tools",
-            "version": "1.0.6",
+            "version": "2.2.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_accessibility_tools.git",
-                "reference": "b5b29e674d5302f6042f5e09d82291dd2b32d143"
+                "reference": "25b0c2eecf1945ef0ed92d845785f800948c3ebe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_accessibility_tools/repository/archive.zip?sha=b5b29e674d5302f6042f5e09d82291dd2b32d143",
-                "reference": "b5b29e674d5302f6042f5e09d82291dd2b32d143",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_accessibility_tools/repository/archive.zip?sha=25b0c2eecf1945ef0ed92d845785f800948c3ebe",
+                "reference": "25b0c2eecf1945ef0ed92d845785f800948c3ebe",
                 "shasum": ""
             },
             "require": {
-                "drupal/core": ">=10.3",
-                "drupal/drupal_cms_page": "~1.0.3",
                 "drupal/editoria11y": "^2.2"
             },
             "type": "drupal-recipe",
@@ -3807,9 +3805,9 @@
             ],
             "description": "Adds automated checks to help ensure content conforms to web accessibility guidelines.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_accessibility_tools/-/tree/1.0.6"
+                "source": "https://git.drupalcode.org/project/drupal_cms_accessibility_tools/-/tree/2.2.0"
             },
-            "time": "2025-06-10T11:21:21+00:00"
+            "time": "2026-09-25T18:09:39+00:00"
         },
         {
             "name": "drupal/drupal_cms_admin_ui",
